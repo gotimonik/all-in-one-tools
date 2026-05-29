@@ -1,0 +1,6 @@
+{
+  "name": "DevToolkit",
+  "description": "A modern, professional platform for essential developer utilities like formatting, encoding, and validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

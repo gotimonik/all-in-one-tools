@@ -7,8 +7,11 @@ import { cn } from '@/lib/utils';
 const tools = [
   { name: 'Dashboard', href: '/', icon: LayoutDashboard },
   { name: 'JSON Formatter', href: '/json-formatter', icon: FileJson },
+  { name: 'XML Formatter', href: '/xml-formatter', icon: FileCode },
+  { name: 'HTML Formatter', href: '/html-formatter', icon: FileCode },
+  { name: 'SQL Formatter', href: '/sql-formatter', icon: FileCode },
+  { name: 'CSS Formatter', href: '/css-formatter', icon: FileCode },
   { name: 'Base64 Encoder/Decoder', href: '/base64', icon: Hash },
-  { name: 'Text Diff Checker', href: '/diff', icon: Type },
 ];
 
 export function Sidebar() {
